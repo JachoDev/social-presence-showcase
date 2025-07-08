@@ -13,7 +13,6 @@ A modern web application demonstrating social presence features, built with the 
 - [Running Locally](#running-locally)
 - [Deployment](#deployment)
 - [AI Code Generation & Quality](#ai-code-generation--quality)
-- [License](#license)
 - [Contact](#contact)
 
 ---
