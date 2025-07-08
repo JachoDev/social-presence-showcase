@@ -132,13 +132,8 @@ This project was generated using the Gemini code tool by Google. As a multiplatf
 
 ---
 
-## License
-
-[MIT](LICENSE)
-
----
 
 ## Contact
 
-Created by [Your Name](https://github.com/yourusername)  
+Created by J. D. (https://github.com/jachodev)  
 Feel free to reach out for questions, suggestions, or collaborations!
